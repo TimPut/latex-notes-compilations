@@ -1,11 +1,11 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 use warnings ;
 use strict ;
 use Getopt::Long;
 
 BEGIN {
-   push( @INC, "$ENV{HOME}/project/", "$ENV{HOME}/physicsplay", "$ENV{HOME}/physicsplay/notes") ;
+   push( @INC, "$ENV{HOME}/ga_thesis/peeterjoot/","$ENV{HOME}/ga_thesis/peeterjoot/gabookI","$ENV{HOME}/ga_thesis/peeterjoot/gabookII", "$ENV{HOME}/physicsplay", "$ENV{HOME}/physicsplay/notes") ;
 }
 
 my $doGabook = 0 ;
