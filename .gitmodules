@@ -1,144 +1,144 @@
 [submodule "figures/classicalmechanics"]
 	path = figures/classicalmechanics
-	url = git@github.com:peeterjoot/classicalmechanics-figures.git
+	url = https://github.com/peeterjoot/classicalmechanics-figures.git
 [submodule "figures/ece1236-microwaves"]
 	path = figures/ece1236-microwaves
-	url = git@github.com:peeterjoot/ece1236-microwaves-figures.git
+	url = https://github.com/peeterjoot/ece1236-microwaves-figures.git
 [submodule "figures/miscphysics"]
 	path = figures/miscphysics
-	url = git@github.com:peeterjoot/miscphysics-figures.git
+	url = https://github.com/peeterjoot/miscphysics-figures.git
 [submodule "figures/otherbook"]
 	path = figures/otherbook
-	url = git@github.com:peeterjoot/otherbook-figures.git
+	url = https://github.com/peeterjoot/otherbook-figures.git
 [submodule "figures/phy356-qmI"]
 	path = figures/phy356-qmI
-	url = git@github.com:peeterjoot/phy356-qmI-figures.git
+	url = https://github.com/peeterjoot/phy356-qmI-figures.git
 [submodule "figures/phy450-relativisticEandM"]
 	path = figures/phy450-relativisticEandM
-	url = git@github.com:peeterjoot/phy450-relativisticEandM-figures.git
+	url = https://github.com/peeterjoot/phy450-relativisticEandM-figures.git
 [submodule "figures/phy452-basicstatmech"]
 	path = figures/phy452-basicstatmech
-	url = git@github.com:peeterjoot/phy452-basicstatmech-figures.git
+	url = https://github.com/peeterjoot/phy452-basicstatmech-figures.git
 [submodule "figures/phy454-continuumechanics"]
 	path = figures/phy454-continuumechanics
-	url = git@github.com:peeterjoot/phy454-continuumechanics-figures.git
+	url = https://github.com/peeterjoot/phy454-continuumechanics-figures.git
 [submodule "figures/phy456-qmII"]
 	path = figures/phy456-qmII
-	url = git@github.com:peeterjoot/phy456-qmII-figures.git
+	url = https://github.com/peeterjoot/phy456-qmII-figures.git
 [submodule "figures/phy485-optics"]
 	path = figures/phy485-optics
-	url = git@github.com:peeterjoot/phy485-optics-figures.git
+	url = https://github.com/peeterjoot/phy485-optics-figures.git
 [submodule "figures/phy487-qmsolids"]
 	path = figures/phy487-qmsolids
-	url = git@github.com:peeterjoot/phy487-qmsolids-figures.git
+	url = https://github.com/peeterjoot/phy487-qmsolids-figures.git
 [submodule "figures/GAelectrodynamics"]
 	path = figures/GAelectrodynamics
-	url = git@github.com:peeterjoot/GAelectrodynamicsFigures.git
+	url = https://github.com/peeterjoot/GAelectrodynamicsFigures.git
 [submodule "figures/ece1228-electromagnetic-theory"]
 	path = figures/ece1228-electromagnetic-theory
-	url = git@github.com:peeterjoot/ece1228-electromagnetic-theory-figures.git
+	url = https://github.com/peeterjoot/ece1228-electromagnetic-theory-figures.git
 [submodule "figures/ece1229-antenna"]
 	path = figures/ece1229-antenna
-	url = git@github.com:peeterjoot/ece1229-antenna-figures.git
+	url = https://github.com/peeterjoot/ece1229-antenna-figures.git
 [submodule "figures/ece1254-multiphysics"]
 	path = figures/ece1254-multiphysics
-	url = git@github.com:peeterjoot/ece1254-multiphysics-figures.git
+	url = https://github.com/peeterjoot/ece1254-multiphysics-figures.git
 [submodule "figures/gabook"]
 	path = figures/gabook
-	url = git@github.com:peeterjoot/gabookFigures.git
+	url = https://github.com/peeterjoot/gabookFigures.git
 [submodule "figures/phy1520-quantum"]
 	path = figures/phy1520-quantum
-	url = git@github.com:peeterjoot/phy1520-quantum-figures.git
+	url = https://github.com/peeterjoot/phy1520-quantum-figures.git
 [submodule "mathematica"]
 	path = mathematica
-	url = git@github.com:peeterjoot/mathematica.git
+	url = https://github.com/peeterjoot/mathematica.git
 [submodule "matlab"]
 	path = matlab
-	url = git@github.com:peeterjoot/matlab.git
+	url = https://github.com/peeterjoot/matlab.git
 [submodule "julia"]
 	path = julia
-	url = git@github.com:peeterjoot/julia.git
+	url = https://github.com/peeterjoot/julia.git
 [submodule "ece1505-convex-optimization"]
 	path = ece1505-convex-optimization
-	url = git@github.com:peeterjoot/ece1505H.git
+	url = https://github.com/peeterjoot/ece1505H.git
 [submodule "figures/ece1505-convex-optimization"]
 	path = figures/ece1505-convex-optimization
-	url = git@github.com:peeterjoot/ece1505-convex-optimization-figures.git
+	url = https://github.com/peeterjoot/ece1505-convex-optimization-figures.git
 [submodule "stokesTheorem"]
 	path = stokesTheorem
-	url = git@github.com:peeterjoot/stokesTheorem.git
+	url = https://github.com/peeterjoot/stokesTheorem.git
 [submodule "GAelectrodynamics"]
 	path = GAelectrodynamics
-	url = git@github.com:peeterjoot/GAelectrodynamics.git
+	url = https://github.com/peeterjoot/GAelectrodynamics.git
 [submodule "classicalmechanics"]
 	path = classicalmechanics
-	url = git@github.com:peeterjoot/classicalmechanics.git
+	url = https://github.com/peeterjoot/classicalmechanics.git
 [submodule "curvilinear"]
 	path = curvilinear
-	url = git@github.com:peeterjoot/curvilinear.git
+	url = https://github.com/peeterjoot/curvilinear.git
 [submodule "ece1228-electromagnetic-theory"]
 	path = ece1228-electromagnetic-theory
-	url = git@github.com:peeterjoot/ece1228-electromagnetic-theory.git
+	url = https://github.com/peeterjoot/ece1228-electromagnetic-theory.git
 [submodule "ece1229-antenna"]
 	path = ece1229-antenna
-	url = git@github.com:peeterjoot/ece1229-antenna.git
+	url = https://github.com/peeterjoot/ece1229-antenna.git
 [submodule "ece1236-microwaves"]
 	path = ece1236-microwaves
-	url = git@github.com:peeterjoot/ece1236-microwaves.git
+	url = https://github.com/peeterjoot/ece1236-microwaves.git
 [submodule "ece1254-multiphysics"]
 	path = ece1254-multiphysics
-	url = git@github.com:peeterjoot/ece1254-multiphysics.git
+	url = https://github.com/peeterjoot/ece1254-multiphysics.git
 [submodule "frequencydomain"]
 	path = frequencydomain
-	url = git@github.com:peeterjoot/frequencydomain.git
+	url = https://github.com/peeterjoot/frequencydomain.git
 [submodule "gabookI"]
 	path = gabookI
-	url = git@github.com:peeterjoot/gabookI.git
+	url = https://github.com/peeterjoot/gabookI.git
 [submodule "gabookII"]
 	path = gabookII
-	url = git@github.com:peeterjoot/gabookII.git
+	url = https://github.com/peeterjoot/gabookII.git
 [submodule "gapauli"]
 	path = gapauli
-	url = git@github.com:peeterjoot/gapauli.git
+	url = https://github.com/peeterjoot/gapauli.git
 [submodule "latex"]
 	path = latex
-	url = git@github.com:peeterjoot/latex.git
+	url = https://github.com/peeterjoot/latex.git
 [submodule "miscphysics"]
 	path = miscphysics
-	url = git@github.com:peeterjoot/miscphysics.git
+	url = https://github.com/peeterjoot/miscphysics.git
 [submodule "otherbook"]
 	path = otherbook
-	url = git@github.com:peeterjoot/otherbook.git
+	url = https://github.com/peeterjoot/otherbook.git
 [submodule "phy1520-quantum"]
 	path = phy1520-quantum
-	url = git@github.com:peeterjoot/phy1520-quantum.git
+	url = https://github.com/peeterjoot/phy1520-quantum.git
 [submodule "phy356-qmI"]
 	path = phy356-qmI
-	url = git@github.com:peeterjoot/phy356-qmI.git
+	url = https://github.com/peeterjoot/phy356-qmI.git
 [submodule "phy450-relativisticEandM"]
 	path = phy450-relativisticEandM
-	url = git@github.com:peeterjoot/phy450-relativisticEandM.git
+	url = https://github.com/peeterjoot/phy450-relativisticEandM.git
 [submodule "phy452-basicstatmech"]
 	path = phy452-basicstatmech
-	url = git@github.com:peeterjoot/phy452-basicstatmech.git
+	url = https://github.com/peeterjoot/phy452-basicstatmech.git
 [submodule "phy454-continuumechanics"]
 	path = phy454-continuumechanics
-	url = git@github.com:peeterjoot/phy454-continuumechanics.git
+	url = https://github.com/peeterjoot/phy454-continuumechanics.git
 [submodule "phy456-qmII"]
 	path = phy456-qmII
-	url = git@github.com:peeterjoot/phy456-qmII.git
+	url = https://github.com/peeterjoot/phy456-qmII.git
 [submodule "phy485-optics"]
 	path = phy485-optics
-	url = git@github.com:peeterjoot/phy485-optics.git
+	url = https://github.com/peeterjoot/phy485-optics.git
 [submodule "phy487-qmsolids"]
 	path = phy487-qmsolids
-	url = git@github.com:peeterjoot/phy487-qmsolids.git
+	url = https://github.com/peeterjoot/phy487-qmsolids.git
 [submodule "potentialMethods"]
 	path = potentialMethods
-	url = git@github.com:peeterjoot/potentialMethods.git
+	url = https://github.com/peeterjoot/potentialMethods.git
 [submodule "phy2403-quantum-field-theory"]
 	path = phy2403-quantum-field-theory
-	url = git@github.com:peeterjoot/phy2403-quantum-field-theory.git
+	url = https://github.com/peeterjoot/phy2403-quantum-field-theory.git
 [submodule "figures/phy2403-quantum-field-theory"]
 	path = figures/phy2403-quantum-field-theory
-	url = git@github.com:peeterjoot/phy2403-quantum-field-theory-figures.git
+	url = https://github.com/peeterjoot/phy2403-quantum-field-theory-figures.git
